@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">Finale_Android</string>
+    <string name="login_btn_text">LOGIN</string>
+    <string name="login_hint_username">Username</string>
+    <string name="login_hint_password">Password</string>
+</resources>

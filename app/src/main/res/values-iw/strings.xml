@@ -1,0 +1,5 @@
+<resources>
+    <string name="login_btn_text">התחברות</string>
+    <string name="login_hint_username">שם משתמש</string>
+    <string name="login_hint_password">סיסמה</string>
+</resources>
